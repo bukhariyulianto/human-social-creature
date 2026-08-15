@@ -1,4 +1,3 @@
-``markdown
 # 🌍 Human as a Social Creature
 ### Understanding Human Nature Through Science and the Islamic Worldview
 
